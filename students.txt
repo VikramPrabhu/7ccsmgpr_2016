@@ -13,10 +13,8 @@
 1530247/1	Hassan, Abdelrahman Hamdy	abdelrahman.hassan@kcl.ac.uk	Current	Advanced Software Engineering Management	
 1533738/2	Zhang, Qingkai	qingkai.zhang@kcl.ac.uk	Current	Robotics	
 1536222/2	Alrahili, Rawan Mohammed	rawan.alrahili@kcl.ac.uk	Current	Computing And Security	
-1537953/1	Hamid, Mohammad	mohammad.hamid@kcl.ac.uk	Current	Robotics	
 1541757/1	Santini, Karlo	karlo.santini@kcl.ac.uk	Current	Advanced Software Engineering	
 1551736/1	Badatala, Vijay Kumar	vijay_kumar.badatala@kcl.ac.uk	Current	Computing And Security	
-1557442/2	Shi, Shuhao	shuhao.shi@kcl.ac.uk	Current	Web Intelligence	
 1557762/1	Mendoza Hernandez, Daniel Arturo	daniel_arturo.mendoza_hernandez@kcl.ac.uk	Current	Advanced Software Engineering Management	
 1560416/1	Krupski, Jacek Rafal	jacek.krupski@kcl.ac.uk	Current	Computing And Security	
 1560765/1	Kurdukar, Sai	sai.kurdukar@kcl.ac.uk	Current	Computing And Security	
